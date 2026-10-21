@@ -22,4 +22,4 @@ print(f"Dien nang: {dien_nang_kwh:.3f} kWh")
 print(f"Chi phi: {chi_phi:.2f} VND")
 print(f"Tren 60 phut: {tren_60_phut}")
 print(f"Ghi nhan luc: {ghi_nhan_luc}")
-
+# Chapter 2 case study v2
